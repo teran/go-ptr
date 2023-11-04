@@ -2,7 +2,9 @@
 
 ## About
 
-Trivial library to handle taking pointer for trivial cases
+![Test & Build status](https://github.com/teran/go-ptr/actions/workflows/go.yml/badge.svg) [![Go Reference](https://pkg.go.dev/badge/github.com/teran/go-ptr.svg)](https://pkg.go.dev/github.com/teran/go-ptr)
+
+Trivial and clean library to handle taking pointers just not to repeat the same stuff in every project.
 
 ## Usage
 
@@ -19,5 +21,3 @@ func main() {
     fmt.Printf("%#v\n", ptr.Float64(v))
 }
 ```
-
-[Go Dev reference](https://pkg.go.dev/github.com/teran/go-ptr)

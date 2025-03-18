@@ -1,5 +1,11 @@
 # go-ptr
 
+## Migration notice
+
+This library is moved to [go-collection](https://github.com/teran/go-collection)
+repository for unified experience and simplifying maintenance process.
+This repository will **not** be deleted for backward compatibility.
+
 ## About
 
 ![Test & Build status](https://github.com/teran/go-ptr/actions/workflows/go.yml/badge.svg)
